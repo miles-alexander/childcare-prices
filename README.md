@@ -1,4 +1,4 @@
-# National Childcare Prices Analysis
+# National Childcare Prices Analysis 💰
 
 ## Project Overview
 This project analyzes the rising costs of childcare in the United States, highlighting geographic disparities and the financial strain on low-income families. Using data from the **U.S. Department of Labor’s National Database of Childcare Prices**, the analysis explores how factors such as location, age group, and provider type influence childcare costs over multiple years (2008–2018).
